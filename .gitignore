@@ -1,0 +1,6 @@
+.env
+.idea
+/data/postgres/*
+!/data/postgres/.gitkeep
+/data/wiki/*
+!/data/wiki/.gitkeep
